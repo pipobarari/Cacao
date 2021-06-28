@@ -1,0 +1,4 @@
+Celeste: 26748e
+Fucsia: b63eb6
+Verde: 3eb63e
+Azul: 3745e2
